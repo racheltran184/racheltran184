@@ -1,24 +1,23 @@
-<h1 align="center">Welcome to my GitHub 👋</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center; background-color: #FFD700; padding: 20px 0;">
-  <h1 style="font-size: 36px;
-  font-family: 'Space Mono', 'Courier New', monospace;
-  color: #000;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  border: 4px solid #000;
-  padding: 10px 20px;
-  margin: 0;">
-  Hi! I am Rachel Tran
-  </h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachel+Tran;Business+Analytics+Graduate;Data+to+Decisions+Specialist;Insight-Driven+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>A Business Analytics graduate who turns data into decisions.<br>
-  I code solutions, ship insights, and drive action through story.</h3>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3px; border-radius: 12px; display: inline-block; margin: 20px 0;">
+    <div style="background: #0d1117; padding: 20px 40px; border-radius: 10px; display: inline-block;">
+      <h2 style="margin: 0; color: #ffffff; font-family: 'Space Mono', monospace; letter-spacing: 1px;">
+        📊 Data Analyst | BI Specialist
+      </h2>
+    </div>
+  </div>
 </div>
 
-<hr />
+<p align="center">
+  <i>   I code solutions, ship insights, and drive action through story.</i>
+</p>
 
 <h3 style="text-align: left; font-family: sans-serif;">Connect with me:</h3>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
