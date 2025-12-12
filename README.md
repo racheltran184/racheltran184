@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to my GitHub</h1>
+<h1 align="center">Welcome to my GitHub <a href="#" target="_blank" title="Data Analysis">
+  <img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" alt="Data Analysis Icon" height="40" />
+</a></h1>
 
 
 <div align="center">
@@ -36,33 +38,68 @@
 </div>
 
 
-
-<h3 style="text-align: left; font-family: sans-serif;">Programming Languages:</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>    
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
+<!-- Programming Languages -->
+<div style="margin: 25px 0;">
+  <h3 style="color: #FFD700; margin-bottom: 15px; text-align: center;">💻 Programming Languages</h3>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: center;">
+    <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" /></a>
+    <a href="https://www.r-project.org/" target="_blank" title="R"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="40" /></a>
+   <a href="https://www.sql.org/" target="_blank" title="SQL">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Logo" height="40" />
+</a>
+  </div>
 </div>
 
-<h3 style="text-align: left; font-family: sans-serif;">Tools & Visualization:</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-  </a>   
+<!-- Databases -->
+<div style="margin: 25px 0;">
+  <h3 style="color: #FFD700; margin-bottom: 15px; text-align: center;">🗄️ Databases</h3>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: center;">
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" /></a>
+  </div>
+</div>
+
+<!-- BI & Data Visualization -->
+<div style="margin: 25px 0;">
+  <h3 style="color: #FFD700; margin-bottom: 15px; text-align: center;">📊 BI & Data Visualization</h3>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: center;">
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank" title="Power BI"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="40" /></a>
+    <a href="https://www.tableau.com/" target="_blank" title="Tableau"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="40" /></a>
+    <a href="https://www.qlik.com/us/products/qlik-sense" target="_blank" title="Qlik Sense">
+  <img src="https://cdn.simpleicons.org/qlik/009845" alt="Qlik Sense Logo" height="40" />
+</a>
+    <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" /></a>
+  </div>
+</div>
+
+<!-- Development & Analytics Environments -->
+<div style="margin: 25px 0;">
+  <h3 style="color: #FFD700; margin-bottom: 15px; text-align: center;">🔧 Development & Analytics Environments</h3>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: center;">
+    <a href="https://jupyter.org/" target="_blank" title="Jupyter Notebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="40" /></a>
+    <a href="https://colab.research.google.com/" target="_blank" title="Google Colab"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" /></a>
+    <a href="https://github.com/" target="_blank" title="Git"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" /></a>
+  </div>
+</div>
+
+<!-- Collaboration & Project Management -->
+<div style="margin: 25px 0;">
+  <h3 style="color: #FFD700; margin-bottom: 15px; text-align: center;">🤝 Collaboration & Project Management</h3>
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: center;">
+    <a href="https://trello.com/" target="_blank" title="Trello"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="40" /></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" height="40" /></a>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank" title="Confluence"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" height="40" /></a>
+    <a href="https://slack.com/" target="_blank" title="Slack"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="40" /></a>
+  </div>
 </div>
 
 <hr />
 
 <details>
-<summary><b>My GitHub Stats</b> (Click to expand)</summary>
+<summary><b>📈 My GitHub Stats</b> (Click to expand)</summary>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=racheltran184&theme=tokyonight&hide_border=false" alt="Streak" />
