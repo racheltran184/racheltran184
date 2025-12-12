@@ -16,30 +16,28 @@
 <div align="center">
   <h3>A Business Analytics graduate who turns data into decisions.<br>
   I code solutions, ship insights, and drive action through story.</h3>
-
-
-
-<h3 style="text-align: left; font-family: sans-serif;">Connect with me:</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/racheltran184" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-    </a>
-    <a href="https://www.kaggle.com/racheltran184" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" />
-    </a>
-    <a href="https://www.hackerrank.com/racheltran184" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" />
-    </a>
-  </div>
 </div>
 
 <hr />
 
+<h3 style="text-align: left; font-family: sans-serif;">Connect with me:</h3>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/racheltran184" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://www.kaggle.com/racheltran184" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/racheltran184" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" />
+  </a>
+</div>
+
 <h3 style="text-align: left; font-family: sans-serif;">Programming Languages:</h3>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   
+  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>    
   <a href="https://www.r-project.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
 </div>
 
@@ -52,32 +50,25 @@
     <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-  </a>  
+  </a>   
 </div>
 
 <hr />
 
 <details>
-  <summary><b>📈 My GitHub Stats</b> (Click to expand)</summary>
-  <br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=racheltran184&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-    </a>
-    <br><br>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=racheltran184&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-    </a>
-    <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racheltran184&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </a>
-  </div>
+<summary><b>📈 My GitHub Stats</b> (Click to expand)</summary>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=racheltran184&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racheltran184&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 </details>
 
+<br>
+
 <div align="left">
-<p>
-    <img src="https://komarev.com/ghpvc/?username=racheltran184&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=racheltran184&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
