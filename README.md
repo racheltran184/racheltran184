@@ -20,19 +20,22 @@
 </p>
 
 <h3 style="text-align: left; font-family: sans-serif;">Connect with me:</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/racheltran184" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/racheltran184">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <a href="https://www.kaggle.com/racheltran184" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" />
+  <a href="https://www.kaggle.com/racheltran184">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  
-  <a href="https://www.hackerrank.com/racheltran184" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
+  <a href="https://github.com/racheltran184?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio"/>
+  </a>
+  <a href="mailto:racheltran184@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
+
 
 <h3 style="text-align: left; font-family: sans-serif;">Programming Languages:</h3>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
