@@ -9,7 +9,7 @@
   border: 4px solid #000;
   padding: 10px 20px;
   margin: 0;">
-  Rachel Tran
+  Hi! I am Rachel Tran
   </h1>
 </div>
 
