@@ -64,17 +64,17 @@
   <br>
   <div align="center">
     
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=racheltran184&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats" />
     </a>
     <br><br>
 
-    <a href="https://github.com/streak-stats/github-readme-streak-stats">
+  <a href="https://github.com/streak-stats/github-readme-streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=racheltran184&theme=tokyonight&hide_border=false" alt="Streak" />
     </a>
     <br><br>
 
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racheltran184&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Languages" />
     </a>
     
