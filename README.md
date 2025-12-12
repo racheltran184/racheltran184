@@ -60,7 +60,7 @@
 <hr />
 
 <details>
-<summary><b>📈 My GitHub Stats</b> (Click to expand)</summary>
+<summary><b>My GitHub Stats</b> (Click to expand)</summary>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=racheltran184&theme=tokyonight&hide_border=false" alt="Streak" />
