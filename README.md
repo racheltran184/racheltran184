@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <i>   I code solutions, ship insights, and drive action through story.</i>
+  <i>  I'm obsessed with finding the 'why' behind the numbers. I blend analytical thinking with business intuition to craft strategies that actually drive growth and create competitive advantage. </i>
 </p>
 
 <h3 style="text-align: left; font-family: sans-serif;">Connect with me:</h3>
