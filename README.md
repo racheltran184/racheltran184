@@ -60,26 +60,23 @@
 <hr />
 
 <details>
-  <summary><b> My GitHub Stats</b> (Click to expand)</summary>
+  <summary><b>📈 My GitHub Stats</b> (Click to expand)</summary>
   <br>
   <div align="center">
-    
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=racheltran184&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=racheltran184&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
     </a>
     <br><br>
-
-  <a href="https://github.com/streak-stats/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=racheltran184&theme=tokyonight&hide_border=false" alt="Streak" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=racheltran184&theme=tokyonight&hide_border=false" alt="Streak Stats" />
     </a>
     <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racheltran184&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Languages" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=racheltran184&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
     </a>
-    
   </div>
 </details>
+
 <div align="left">
 <p>
     <img src="https://komarev.com/ghpvc/?username=racheltran184&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
