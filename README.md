@@ -2,23 +2,29 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" alt="Data Analysis Icon" height="40" />
 </a></h1>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachel+Tran"
+    alt="Typing SVG"
+  />
+</p>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachel+Tran;Business+Analytics+Graduate;Data+to+Decisions+Specialist;Insight-Driven+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Business+Analytics+Graduate;Data+to+Decisions+Specialist;Insight-Driven+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3px; border-radius: 12px; display: inline-block; margin: 20px 0;">
     <div style="background: #0d1117; padding: 20px 40px; border-radius: 10px; display: inline-block;">
       <h2 style="margin: 0; color: #ffffff; font-family: 'Space Mono', monospace; letter-spacing: 1px;">
-        📊 Data Analyst | BI Specialist
       </h2>
     </div>
   </div>
 </div>
 
 <p align="center">
-  <i>  I'm obsessed with finding the 'why' behind the numbers. I blend analytical thinking with business intuition to craft strategies that actually drive growth and create competitive advantage. </i>
+  <i>  I'm obsessed with finding the 'why' behind the numbers. I blend analytical thinking with business intuition to craft strategies that actually turn insights into action—what to fix, what to scale, and where to invest.</i>
 </p>
 
 <h3 style="text-align: left; font-family: sans-serif;">Connect with me:</h3>
